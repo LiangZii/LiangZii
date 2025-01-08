@@ -16,11 +16,10 @@ I'm Liangzi,
 >  ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 🔒 PGP Public Key (use when necessary):
+
 <a href="https://github.com/anuraghazra/convoychat">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiangZii&hide=c,shaderlab,hlsl,objective-c&theme=onedark" />
 </a>
-
-
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
